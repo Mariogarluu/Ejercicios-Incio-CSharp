@@ -249,7 +249,7 @@ Ejercicios-Incio-C-/
 
 ## 👨‍💻 Autor
 
-Mario García
+Mario García Luque
 
 ## 📄 Licencia
 
